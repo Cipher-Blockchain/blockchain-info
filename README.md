@@ -1,7 +1,8 @@
-# chipher-blockchain
-docs &amp; info about chiper blockchain
+# Chipher Blockchain Information
 
-### Blockchain Info
+### docs and info about chiper blockchain
+
+## Quick intro
 
 Chiper implements the IBFT 2.0 Proof-of-Authority (PoA) consensus protocol. In IBFT 2.0 networks, approved accounts, known as validators, validate transactions and blocks. Validators take turns to create the next block. Before inserting the block onto the chain, a super-majority (greater than 66%) of validators must first sign the block.
 
@@ -38,8 +39,6 @@ Block Explorer URL: https://explorer.cipherem.com
 
 
 ![blockchain cipher configuration](https://raw.githubusercontent.com/Cipher-Blockchain/blockchain-info/main/metamask_settings.png)
-
-
 
 
 ### First block produced
