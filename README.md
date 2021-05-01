@@ -10,6 +10,10 @@ Existing validators propose and vote to add or remove validators. Adding or remo
 IBFT 2.0 requires four validators to be Byzantine fault tolerant. Byzantine fault tolerance is the ability for a blockchain network to function correctly and reach consensus despite nodes failing or propagating incorrect information to peers.
 
 
+### First block produced
+
+2021-05-01 20:22:27.505+00:00 | pool-8-thread-1 | INFO  | IbftBesuControllerBuilder | Produced #1 / 0 tx / 0 pending / 0 (0.0%) gas / (0x94fb17348eb35f6b006f80d33eabdfea1039dc95a223868092fa97e930b845ab)
+
 ### External Node Setup:
 
 How to setup an external RPC Node
