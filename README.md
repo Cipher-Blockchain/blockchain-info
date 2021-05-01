@@ -24,7 +24,7 @@ And that’s it! You should now see your wallet, ready to send and receive funds
 
 #### Configuring metamask
 
-You might notice straight away that we’re still dealing with an Ethereum wallet. At best, this won’t work with Chiper Smart Chain DApps. At worst, you could lose funds by sending them to addresses you can’t actually use.
+You might notice straight away that we’re still dealing with an Ethereum wallet. At best, this won’t work with Chiper Chain DApps. At worst, you could lose funds by sending them to addresses you can’t actually use.
 Let’s change that. We want to access the Settings to point the wallet towards Chiper Blockchain nodes.
 
 On the Settings page, we want to locate the Networks menu.
