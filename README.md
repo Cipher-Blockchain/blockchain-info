@@ -31,11 +31,11 @@ On the Settings page, we want to locate the Networks menu.
 
 We want to click Add Network in the top-right corner to manually add the Chiper Blockchain – it doesn’t come packaged with MetaMask. 
 
-Network Name: Cipherem
-New RPC URL: https://rpc.cipherem.com
-Chain ID: 18
-Currency Symbol: CHIP
-Block Explorer URL: https://explorer.cipherem.com
+- Network Name: Cipherem
+- New RPC URL: https://rpc.cipherem.com
+- Chain ID: 18
+- Currency Symbol: CHIP
+- Block Explorer URL: https://explorer.cipherem.com
 
 
 ![blockchain cipher configuration](https://raw.githubusercontent.com/Cipher-Blockchain/blockchain-info/main/metamask_settings.png)
