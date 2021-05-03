@@ -37,6 +37,7 @@ We want to click Add Network in the top-right corner to manually add the Chiper 
 - Currency Symbol: CHIP
 - Block Explorer URL: https://explorer.cipherem.com
 
+Gas Price: use 5gwei
 
 ![blockchain cipher configuration](https://raw.githubusercontent.com/Cipher-Blockchain/blockchain-info/main/metamask_settings.png)
 
