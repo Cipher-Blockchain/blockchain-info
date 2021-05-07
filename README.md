@@ -39,7 +39,7 @@ We want to click Add Network in the top-right corner to manually add the Chiper 
 
 Gas Price: use 5gwei
 
-![blockchain cipher configuration](https://raw.githubusercontent.com/Cipher-Blockchain/blockchain-info/main/metamask_settings.png)
+![blockchain cipher configuration](https://raw.githubusercontent.com/Cipher-Blockchain/blockchain-info/main/metamask_settings2.png)
 
 
 ### First block produced
