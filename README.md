@@ -34,7 +34,7 @@ We want to click Add Network in the top-right corner to manually add the Chiper 
 - Network Name: Cipherem
 - New RPC URL: https://rpc.cipherem.com
 - Chain ID: 18
-- Currency Symbol: CHIP
+- Currency Symbol: CIP
 - Block Explorer URL: https://explorer.cipherem.com
 
 Gas Price: use 5gwei
